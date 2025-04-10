@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .slideshow-container {
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    border:1px solid black;
+  
+  }
+  
+  .slideshow {
+    display: none;
+  }
+  
+  img {
+    margin-top: 130px;
+    margin-left: 200px;
+    margin-right: 400px;
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px 0 20px 0;
+  }
+  
+  .controls {
+    margin-top: 10px;
+   
+
+  }
+
+
+  
+  button {
+    padding: 20px 20px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: pink;
+  }
